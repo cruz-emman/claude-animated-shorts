@@ -1,0 +1,14 @@
+# Dependencies & Caches
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Remotion & Video Outputs
+out/
+backup/
+.remotion/
+
+# OS Files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+{
+  "name": "animated-shorts",
+  "displayName": "Antigravity Animated Shorts",
+  "version": "1.0.0",
+  "description": "Create 55-70s viral 3D cartoon story shorts using Three.js inside Remotion with multi-agent coordination, synthesized procedural audio, and visual QA.",
+  "author": "Antigravity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mromidev/claude-animated-shorts"
+  }
+}
